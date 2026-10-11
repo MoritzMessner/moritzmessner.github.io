@@ -1,13 +1,13 @@
 # Site settings
 title: Moritz Messner
-description: Flutter Developer – Blog & Portfolio
+description: Moritz Messner – Flutter-Entwickler (iOS, Android, Web)
 url: "" # Will be set when deploying to GitHub Pages
 baseurl: "" # User page - no baseurl needed
 
 # Author
 author:
   name: Moritz Messner
-  email: moritzmessner14@gmail.com
+  email: messner.moritz@proton.me
   location: Stuttgart, Deutschland
 
 # Social links
